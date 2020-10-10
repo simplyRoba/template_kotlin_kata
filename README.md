@@ -1,2 +1,1 @@
-# kata_vendingmachine
-https://github.com/guyroyse/vending-machine-kata
+# ADD KATA DESCRIPTION AND TEST CASES
